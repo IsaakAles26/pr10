@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pipiskop/Projects/iliya10/iliya10/iliya10.csproj",
-      "projectName": "iliya10",
-      "projectPath": "/Users/pipiskop/Projects/iliya10/iliya10/iliya10.csproj",
+      "projectUniqueName": "/Users/pipiskop/Projects/isaak10/isaak10/isaak10.csproj",
+      "projectName": "isaak10",
+      "projectPath": "/Users/pipiskop/Projects/isaak10/isaak10/isaak10.csproj",
       "packagesPath": "/Users/pipiskop/.nuget/packages/",
-      "outputPath": "/Users/pipiskop/Projects/iliya10/iliya10/obj/",
+      "outputPath": "/Users/pipiskop/Projects/isaak10/isaak10/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pipiskop/.nuget/NuGet/NuGet.Config"
